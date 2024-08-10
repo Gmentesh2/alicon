@@ -1,0 +1,51 @@
+{
+  "ENG": {
+    "menu": {
+      "mainPage": "Main Page",
+      "about": "About Us",
+      "products": "Products",
+      "contacts": "Contact"
+    },
+    "aboutUs": {
+      "title": "About Us",
+      "description": "Alicon LLC is one of the leading companies in the natural stone business, focusing on importing in Tbilisi, Georgia. We import diverse range of cut-to-size granite slabs for construction sites and headstones/tombstones for graveyards. Our products come in various thicknesses and colours, with finished surfaces and accurate dimensions. We offer line-polished and well-processed granite slab materials with excellent finishing. Our monuments feature unique designs and impressive effects. Our products are in high demand due to their premium quality and affordable prices. We have gained a substantial client base in the local market"
+    },
+    "products": {
+        "title": "Products",
+        "productTypes" : {
+            "headstone" : "Headstone",
+            "tombstone" : "Tombstone"
+        },
+        "placeholder" : "Find product.."
+    },
+    "address" : {
+        "address" : "address:",
+        "street" : "Ioseb Aslanishvili street 18"
+    }
+  },
+  "GEO": {
+    "menu": {
+      "mainPage": "მთავარი გვერდი",
+      "about": "ჩვენს შესახებ",
+      "products": "პროდუქტები",
+      "contacts": "კონტაქტი"
+    },
+    "aboutUs" : {
+        "title": "ჩვენს შესახებ",
+        "description": "Alicon LLC არის ერთ-ერთი წამყვანი კომპანია ბუნებრივი ქვის ბიზნესში, რომელიც ორიენტირებულია იმპორტზე თბილისში, საქართველოში. ჩვენ შემოგვაქვს სხვადასხვა ზომის მოჭრილი გრანიტის ფილები სამშენებლო მოედნებისთვის და საფლავის ქვები/საფლავის ქვები. ჩვენი პროდუქცია მოდის სხვადასხვა სისქესა და ფერში, მზა ზედაპირით და ზუსტი ზომებით. ჩვენ გთავაზობთ ხაზით გაპრიალებულ და კარგად დამუშავებულ გრანიტის ფილების მასალებს შესანიშნავი დასრულებით. ჩვენი ძეგლები გამოირჩევა უნიკალური დიზაინითა და შთამბეჭდავი ეფექტებით. ჩვენს პროდუქტებზე მოთხოვნადია მაღალი ხარისხის და ხელმისაწვდომი ფასების გამო. ჩვენ მოვიპოვეთ მნიშვნელოვანი კლიენტების ბაზა ადგილობრივ ბაზარზე"
+    },
+    "products" : {
+        "title": "პროდუქტები",
+        "productTypes" : {
+            "headstone" : "საფლავის ქვა(Head)",
+            "tombstone" : "საფლავის ქვა(Tomb)"
+        },
+         "placeholder" : "მოძებნე პროდუქტი.."
+    },
+    "address" : {
+        "address" : "მისამართი:",
+        "street" : "იოსებ ასლანიშვილის ქუჩა 18"
+    }
+   
+  }
+}
